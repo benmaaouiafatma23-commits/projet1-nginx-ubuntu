@@ -68,7 +68,7 @@ hostname -I
 ## Résultat final
 - Nginx actif et démarré automatiquement au boot
 - Pare-feu UFW configuré (HTTP autorisé)
-- Page HTML accessible depuis Windows via `http://10.90.176.140`
+- Page HTML accessible depuis Windows via `http://172.24.242.140`
 
 ## Compétences acquises
 - Administration Linux (Ubuntu Server 22.04)
